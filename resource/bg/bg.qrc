@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>init_bg.png</file>
+        <file>map_bg.png</file>
+    </qresource>
+</RCC>
